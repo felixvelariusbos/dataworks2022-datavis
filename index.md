@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Intro to Data Visualization Resources
 
-You can use the [editor on GitHub](https://github.com/felixvelariusbos/dataworks2022-datavis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page has a few extra resources and goodies to compliment the Introduction to Data Visualization course at Dataworks 2022. None of this is required, but please make of use if you so desire. :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Notes on Color Maps
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**What's wrong with this chart?**
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**...and how does that relate to this colormap?**
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Helpful links and such
 
-[Link](url) and ![Image](src)
-```
+- [Calling Bullsh*t](https://www.callingbullshit.org/case_studies.html) (a tongue-and-cheek but nonetheless excellent deep dive into some less than ideal data visualizations, and why EXACTLY they are not as great as they could be)
+- [How the Rainbow Color Map Misleads] (https://eagereyes.org/basics/rainbow-color-map) a practical discussion about the challenges of a rainbow colormap
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/felixvelariusbos/dataworks2022-datavis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
