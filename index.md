@@ -6,7 +6,8 @@ This page has a few extra resources and goodies to compliment the Introduction t
 ### Notes on Color Maps
 
 **What's wrong with this chart?**
-
+![image](https://user-images.githubusercontent.com/8462760/165660817-f77702e0-429d-49b7-9891-4c58bafc1c4e.png)
+(credit: Joshua Stevens, Science Systems and Applications Inc)
 
 **...and how does that relate to this colormap?**
 
