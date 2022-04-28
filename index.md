@@ -14,6 +14,8 @@ This page has a few extra resources and goodies to compliment the Introduction t
 
 ### Helpful links and such
 
-- [Calling Bullsh*t](https://www.callingbullshit.org/case_studies.html) (a tongue-and-cheek but nonetheless excellent deep dive into some less than ideal data visualizations, and why EXACTLY they are not as great as they could be)
-- [How the Rainbow Color Map Misleads] (https://eagereyes.org/basics/rainbow-color-map) a practical discussion about the challenges of a rainbow colormap
+- [Calling Bullshit](https://www.callingbullshit.org/case_studies.html): a tongue-and-cheek but nonetheless excellent deep dive into some less than ideal data visualizations, and why EXACTLY they are not as great as they could be
+- [Visualization Analysis and Design by Tamara Munzer](https://www.cs.ubc.ca/~tmm/vadbook/): Online accompaniment for an excellent textbook on data visualization
+- [How the Rainbow Color Map Misleads](https://eagereyes.org/basics/rainbow-color-map): a practical discussion about the challenges of a rainbow colormap
+- [Susie Liu's Vis Palette](https://projects.susielu.com/viz-palette): Excellent resource for trying out colormaps against different vision types
 
